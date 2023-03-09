@@ -2,6 +2,8 @@
 
 Repositorio para el curso de Introducción a Google Earth Engine del Gabinete de Formación del CSIC, impartido por Diego García Díaz en la Universidad de Cádiz del 9 al 10 de marzo de 2023.
 
+La presentación del curso se encuentra en este [link](https://slides.com/diegogarciadiaz/deck-6dd621/fullscreen)
+
 El curso se divide en 2 días:
 
 El primer día se hará una presentación del Laboratorio de SIG y Teldetección de la EBD, así como de los productos vinculados con la inundación que allí se realizan, y una introducción a Google Earth Engine (Explorer y code-editor) trabajando con Javascript. 
