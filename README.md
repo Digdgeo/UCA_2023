@@ -28,6 +28,8 @@ El segundo día se trabajará con la librería Geemap para trabajar en Google Ea
 
 [Reducer and NDWI](https://github.com/Digdgeo/GEE_Course_2022/blob/main/Dia2/Reducer_NDWI.js)
 
+[Reducer and NDVI](https://github.com/Digdgeo/UCA_2023/blob/main/dia1/Reducer%20and%20NDVI.js)
+
 [Detección de barcos con imágenes radar](https://github.com/Digdgeo/GEE_Course_2022/blob/main/Dia2/Sentinel1_Ships.js)
 
 [NDVI Multi-temporal](https://github.com/Digdgeo/GEE_Course_2022/blob/main/Dia2/NDVI_MultiTemp.js)
