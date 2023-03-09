@@ -1,6 +1,6 @@
 # Teledetección y calidad de aguas 2023
 
-Repositorio para el curso de Introducción a Google Earth Engine del Gabinete de Formación del CSIC, impartido por Diego García Díaz y Qiusheng Wu de forma telemática del 18 al 22 de abril de 2022.
+Repositorio para el curso de Introducción a Google Earth Engine del Gabinete de Formación del CSIC, impartido por Diego García Díaz en la Universidad de Cádiz del 9 al 10 de marzo de 2023.
 
 El curso se divide en 2 días:
 
@@ -30,7 +30,7 @@ El segundo día se trabajará con la librería Geemap para trabajar en Google Ea
 
 [Detección de barcos con imágenes radar](https://github.com/Digdgeo/GEE_Course_2022/blob/main/Dia2/Sentinel1_Ships.js)
 
-[NDVI Multi-temporal]()
+[NDVI Multi-temporal](https://github.com/Digdgeo/GEE_Course_2022/blob/main/Dia2/NDVI_MultiTemp.js)
 
 [Comparativa de máscaras de nubes](https://github.com/Digdgeo/GEE_Course_2022/blob/main/Dia2/LinkedClouds.js)
 
